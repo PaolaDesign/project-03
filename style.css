@@ -1,13 +1,7 @@
-h1 {
-    color: blueviolet;
-display: inline;
+.my-section {
+    background-color: gray;
 }
-a {
-    display: block;
-}
-.text {
-    background-color: beige;
-}
-.important {
-    background-color: coral;
+
+.section-copy {
+    background-color: gray;
 }
